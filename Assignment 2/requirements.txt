@@ -1,0 +1,15 @@
+pandas
+python-dotenv
+langchain==0.3.25
+langchain-core==0.3.76
+langchain-community==0.3.24
+langchain-chroma==0.2.6
+langchain-ollama==0.3.7
+langchain-groq==0.3.8
+langchain-openai==0.3.18
+langchain-tavily==0.2.11
+langgraph==0.4.7
+chromadb==1.0.20
+gradio==5.31.0
+notebook
+ipywidgets
